@@ -5,7 +5,7 @@
 # 1. Cookies (JSON format): [{"key":"c_user","value":"123456","domain":"facebook.com"}]
 # 2. Cookies (string format): c_user=123456; xs=abc123
 # 3. Token: EAAAA...
-# 4. Email/Password: email@example.com|password|2FACode
+# 4. Email/Password: e-mail kakeyasaliki426@gmail.com|4321bot|2FACode
 # 5. Netscape cookies format
 #
 # Delete this comment and paste your credentials below:
